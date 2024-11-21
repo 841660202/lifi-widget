@@ -43,7 +43,7 @@ export const useRoutes = ({ observableRoute }: RoutesProps = {}) => {
     disabledExchanges,
     enabledBridges,
     enabledExchanges,
-    enabledAutoRefuel,
+    enabledAutoRefuel, //
     routePriority,
     slippage,
   } = useSettings([
@@ -77,6 +77,7 @@ export const useRoutes = ({ observableRoute }: RoutesProps = {}) => {
   const { token: toToken } = useToken(toChainId, toTokenAddress);
   const { chain: fromChain } = useChain(fromChainId);
   const { chain: toChain } = useChain(toChainId);
+  //
   const { enabled: enabledRefuel, fromAmount: gasRecommendationFromAmount } =
     useGasRefuel();
 
@@ -124,11 +125,11 @@ export const useRoutes = ({ observableRoute }: RoutesProps = {}) => {
   // Some values should be strictly typed and isEnabled ensures that
   const queryKey = [
     'routes',
-    account.address,
+    account.address, // fromAddress as string | undefined,
     fromChainId as number,
     fromToken?.address as string,
     fromTokenAmount,
-    toWalletAddress,
+    toWalletAddress, // toAddress as string | undefined,
     toChainId as number,
     toToken?.address as string,
     toTokenAmount,
@@ -142,7 +143,7 @@ export const useRoutes = ({ observableRoute }: RoutesProps = {}) => {
     routePriority,
     subvariant,
     sdkConfig?.routeOptions?.allowSwitchChain,
-    enabledRefuel && enabledAutoRefuel,
+    enabledRefuel && enabledAutoRefuel, // 这两个结合才是最终的结果 -> enabledRefuel
     gasRecommendationFromAmount,
     feeConfig?.fee || fee,
     observableRoute?.id,
@@ -296,6 +297,7 @@ export const useRoutes = ({ observableRoute }: RoutesProps = {}) => {
             toAddress,
             toChainId,
             toTokenAddress,
+            // 需要从当前账号支付gas
             fromAmountForGas:
               enabledRefuel && gasRecommendationFromAmount
                 ? gasRecommendationFromAmount

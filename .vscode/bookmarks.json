@@ -1,0 +1,709 @@
+{
+	"files": [
+		{
+			"path": "packages/widget/src/components/TransactionDetails.tsx",
+			"bookmarks": [
+				{
+					"line": 54,
+					"column": 19,
+					"label": ""
+				},
+				{
+					"line": 81,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 94,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 120,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 129,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 172,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 176,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 188,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/TokenRate/TokenRate.tsx",
+			"bookmarks": [
+				{
+					"line": 55,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/TransactionDetailsPage/TransactionDetailsPage.tsx",
+			"bookmarks": [
+				{
+					"line": 43,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 51,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 106,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/Step/Step.tsx",
+			"bookmarks": [
+				{
+					"line": 43,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 79,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 81,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 84,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 86,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 100,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/StepActions/StepActions.tsx",
+			"bookmarks": [
+				{
+					"line": 75,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 160,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 166,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 168,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 170,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 224,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 240,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 332,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/RouteCard/RouteCardEssentials.tsx",
+			"bookmarks": [
+				{
+					"line": 30,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 44,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 50,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 53,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 61,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/RoutesPage/RoutesPage.tsx",
+			"bookmarks": [
+				{
+					"line": 50,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/hooks/useRoutes.ts",
+			"bookmarks": [
+				{
+					"line": 145,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 175,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 268,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 300,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 301,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 304,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 307,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 316,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 325,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 326,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 327,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 376,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/SettingsPage/SettingsPage.tsx",
+			"bookmarks": [
+				{
+					"line": 13,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/AppRoutes.tsx",
+			"bookmarks": [
+				{
+					"line": 79,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 107,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 111,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/SelectEnabledToolsPage.tsx",
+			"bookmarks": [
+				{
+					"line": 64,
+					"column": 44,
+					"label": ""
+				},
+				{
+					"line": 106,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/hooks/useTools.ts",
+			"bookmarks": [
+				{
+					"line": 19,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 22,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "node_modules/@lifi/sdk/src/services/api.ts",
+			"bookmarks": [
+				{
+					"line": 329,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/Header/NavigationHeader.tsx",
+			"bookmarks": [
+				{
+					"line": 62,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 65,
+					"column": 8,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/MainPage/MainPage.tsx",
+			"bookmarks": [
+				{
+					"line": 37,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 45,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 48,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 49,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 50,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/AmountInput/AmountInput.tsx",
+			"bookmarks": [
+				{
+					"line": 44,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 103,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 111,
+					"column": 10,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/AmountInput/AmountInputEndAdornment.tsx",
+			"bookmarks": [
+				{
+					"line": 41,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 60,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/GasMessage/GasMessage.tsx",
+			"bookmarks": [
+				{
+					"line": 26,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 29,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/hooks/useFromTokenSufficiency.ts",
+			"bookmarks": [
+				{
+					"line": 67,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/SendToWallet/SendToWalletButton.tsx",
+			"bookmarks": [
+				{
+					"line": 92,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/SendToWallet/SendToWalletPage.tsx",
+			"bookmarks": [
+				{
+					"line": 215,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 224,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 246,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 257,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 268,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/SelectChainAndToken.tsx",
+			"bookmarks": [
+				{
+					"line": 44,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 53,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/SelectTokenButton/SelectTokenButton.tsx",
+			"bookmarks": [
+				{
+					"line": 40,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 42,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 50,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 62,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/SelectTokenPage/SelectTokenPage.tsx",
+			"bookmarks": [
+				{
+					"line": 44,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 46,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 50,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/SelectChainPage/SelectChainPage.tsx",
+			"bookmarks": [
+				{
+					"line": 42,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/GasMessage/GasRefuelMessage.tsx",
+			"bookmarks": [
+				{
+					"line": 40,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/TransactionPage/TransactionPage.tsx",
+			"bookmarks": [
+				{
+					"line": 54,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 55,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 129,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 141,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 143,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 169,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 180,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 186,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 222,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/pages/TransactionPage/TokenValueBottomSheet.tsx",
+			"bookmarks": [
+				{
+					"line": 33,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 55,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/hooks/useRouteExecution.ts",
+			"bookmarks": [
+				{
+					"line": 98,
+					"column": 4,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "node_modules/@lifi/sdk/src/core/execution.ts",
+			"bookmarks": [
+				{
+					"line": 27,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 28,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/Token/Token.tsx",
+			"bookmarks": [
+				{
+					"line": 89,
+					"column": 2,
+					"label": ""
+				},
+				{
+					"line": 128,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 135,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 151,
+					"column": 8,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/utils/converters.ts",
+			"bookmarks": [
+				{
+					"line": 14,
+					"column": 3,
+					"label": ""
+				},
+				{
+					"line": 155,
+					"column": 10,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/components/Step/StepList.tsx",
+			"bookmarks": [
+				{
+					"line": 36,
+					"column": 1,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "packages/widget/src/stores/routes/createRouteExecutionStore.ts",
+			"bookmarks": [
+				{
+					"line": 141,
+					"column": 12,
+					"label": ""
+				}
+			]
+		}
+	]
+}

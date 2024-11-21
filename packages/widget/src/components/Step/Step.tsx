@@ -83,8 +83,10 @@ export const Step: React.FC<{
         </CardTitle>
       </Box>
       <Box py={1}>
+        {/* 从 */}
         {fromToken ? <Token token={fromToken} px={2} py={1} /> : null}
         <StepActions step={step} px={2} py={1} dense />
+        {/* 执行过程 */}
         {step.execution?.process.map((process, index) => (
           <StepProcess key={index} step={step} process={process} />
         ))}
@@ -95,6 +97,7 @@ export const Step: React.FC<{
             toAddressLink={toAddressLink}
           />
         ) : null}
+        {/* 到 */}
         {toToken ? (
           <Token
             token={toToken}

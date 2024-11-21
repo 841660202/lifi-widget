@@ -114,6 +114,7 @@ export const TransactionDetails: React.FC<TransactionDetailsProps> = ({
           )}
         </CardIconButton>
       </Box>
+      {/* fee */}
       <Collapse timeout={225} in={cardExpanded} mountOnEnter>
         <Box px={2} pb={2}>
           <Box display="flex" justifyContent="space-between" mb={0.5}>

@@ -155,6 +155,7 @@ export const IncludedSteps: React.FC<IncludedStepsProps> = ({ step }) => {
       >
         {includedSteps.map((step, i, includedSteps) => (
           <MuiStep key={step.id} expanded>
+            {/* 不同类型 */}
             <StepLabel StepIconComponent={StepIconComponent}>
               {step.type === 'custom' && subvariant === 'custom' ? (
                 <CustomStepDetailsLabel
@@ -170,6 +171,7 @@ export const IncludedSteps: React.FC<IncludedStepsProps> = ({ step }) => {
                 <SwapStepDetailsLabel step={step} />
               )}
             </StepLabel>
+            {/* 最后的信息 */}
             <StepContent last={i === includedSteps.length - 1}>
               <StepDetailsContent step={step} />
             </StepContent>

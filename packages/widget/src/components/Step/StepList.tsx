@@ -33,6 +33,7 @@ export const getStepList = (
         amount: BigInt(steps[0].action.fromAmount),
       };
     }
+    // 这个地方 route.fromAddress 就很奇怪了，后面如果toAddress是undefined，又是如何处理的
     const toAddress =
       index === lastIndex && route.fromAddress !== route.toAddress
         ? route.toAddress

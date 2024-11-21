@@ -5,4 +5,7 @@
   },
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "npm.packageManager": "yarn",
+  "i18n-ally.localesPaths": [
+    "packages/widget/src/i18n"
+  ],
 }
